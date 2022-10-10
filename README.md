@@ -1,6 +1,6 @@
 # Connect4
 
-Connect 4 Game-
+**Connect 4 Game**
 
 Normal Connect 4 game that can be played on a console-based UI or GUI. The game allows the user to select whether they would like to play against another player or computer. The computer uses an algorithm that can detect if the player is about to win or if the computer could win the game. If the user were to enter invalid inputs, exception handling have been integrated to show error messages. The GUI version of the application involves Textfields, Buttons and a GridPane.
 
